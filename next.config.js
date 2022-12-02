@@ -3,7 +3,4 @@ const nextConfig = {
   reactStrictMode: true,
 }
 
-module.exports = {
-nextConfig,
-distDir: 'build'
-}
+module.exports = nextConfig
