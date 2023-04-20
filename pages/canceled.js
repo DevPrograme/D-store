@@ -10,7 +10,7 @@ const Canceled = () => {
                 <p className="icon">
                     <BsFillBagXFill />
                 </p>
-                <h2>Somethig wrong happened</h2>
+                <h2>We are sorry. Somethig wrong happened</h2>
                 <p className="email-msg">Mail us for the Issue at</p>
                     <a className="email" href="mailto:order@example.com">
                         order@example.com
